@@ -1,9 +1,9 @@
 # University-Management-System-with-OOAD
 
-A University / College Management System that allows you to log in as the admin, a student or staff member and view all relevant information about the University related to the particular user.
-Design Patterns Used - Singleton for Admin and Database, Facade for Home Page for each user
-Architecture Used - Model View Controller (MVC)
-Design Principles Used - Single Responsibility Principle (SRP), Open-Closed Principle (OCP)
+A University / College Management System that allows you to log in as the admin, a student or staff member and view all relevant information about the University related to the particular user. <br>
+Design Patterns Used - Singleton for Admin and Database, Facade for Home Page for each user <br>
+Architecture Used - Model View Controller (MVC) <br>
+Design Principles Used - Single Responsibility Principle (SRP), Open-Closed Principle (OCP) <br>
 
 Key Features:
 * Users can register as a student, a staff member, or an admin
@@ -34,12 +34,12 @@ Key Features:
 # **Connecting NetBeans to the MySQL Database**
 
 ## **Importing My NetBeans Project**
-1. Download [my NetBeans project zip file](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_mysql_workbench_export.zip)
+1. Download [my NetBeans project zip file](https://github.com/AdityaRamesh18/University-Management-System-with-OOAD/blob/main/college_management_system_netbeans_export.zip)
 2. Open NetBeans -> File -> Import Project -> From ZIP -> Browse button next to the ZIP File text field -> Search for and click the downloaded ZIP file -> Import. Note that the Folder text field shows where the project will be saved.<br></br>
 
 ## **Importing My MySQL Schema**
 
-1. Download [my MySQL schema](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_mysql_workbench_export.zip)
+1. Download [my MySQL schema](https://github.com/AdityaRamesh18/University-Management-System-with-OOAD/blob/main/college_management_system_mysql_workbench_export.zip)
 
 2. Open MySQL Workbench -> The new connection you created earlier -> Startup / Shutdown -> Start Server -> Refresh Status (you may or may not need to click the button more than once to ensure a connection has been estalished; The Information box in the bottom left corner should display the connection details)<br></br>  
 
