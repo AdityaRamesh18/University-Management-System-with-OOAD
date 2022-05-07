@@ -4,6 +4,8 @@ A University / College Management System that allows you to log in as the admin,
 Design Patterns Used - Singleton for Admin and Database, Facade for Home Page for each user <br>
 Architecture Used - Model View Controller (MVC) <br>
 Design Principles Used - Single Responsibility Principle (SRP), Open-Closed Principle (OCP) <br>
+Frameworks Used - Apache Netbeans IDE and Swing for GUI <br>
+Database Used - MySQL <br>
 
 Key Features:
 * Users can register as a student, a staff member, or an admin
